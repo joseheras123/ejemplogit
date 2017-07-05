@@ -1,0 +1,29 @@
+commit bd481e2b2f65d535ccb5faa1893f02087a0a0df0
+Author: Jose Heras <jose123xtr@hotmail.com>
+Date:   Tue Jul 4 11:38:59 2017 -0600
+
+    se agrego bootstrap
+
+commit 8d09f39b00805e705d00fa9743376f2d43cd6301
+Author: Jose Heras <jose123xtr@hotmail.com>
+Date:   Tue Jul 4 11:34:53 2017 -0600
+
+    se agrego lorem
+
+commit db6604954bcbf187ddc65961339ffdefaa616d0a
+Author: Jose Heras <jose123xtr@hotmail.com>
+Date:   Tue Jul 4 11:27:29 2017 -0600
+
+    se agrego el footer
+
+commit 02bf23423fd8d30a9f9864c8d68d817c96681708
+Author: Jose Heras <jose123xtr@hotmail.com>
+Date:   Tue Jul 4 11:22:11 2017 -0600
+
+    se agrego imagen
+
+commit d4d69947db7deabf7d658f7f606b5991475f13ef
+Author: Jose Heras <jose123xtr@hotmail.com>
+Date:   Tue Jul 4 11:15:16 2017 -0600
+
+    Estructura Inicial del proyecto
